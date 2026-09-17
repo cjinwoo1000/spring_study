@@ -1,4 +1,4 @@
-//패키지 불러오기
+//인텔라이져 불러오기
 package com.example.spring_web;
 
 //매핑도구
