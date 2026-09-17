@@ -13,7 +13,7 @@ public class HelloController {
     // (/hello)로 들어 왔을때 요청을 처리
     @GetMapping("/hello")
 
-    //실제 실행 함수
+    //실제 실행 함수11
     public String hello() {
         return "안녕하세요! 스프링 첫 화면입니다.";
     }
