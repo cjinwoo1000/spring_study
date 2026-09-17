@@ -1,4 +1,4 @@
-//패키지 위치 설정
+//패키지 불러오기
 package com.example.spring_web;
 
 //매핑도구
