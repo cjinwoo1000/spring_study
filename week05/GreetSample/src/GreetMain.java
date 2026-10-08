@@ -1,7 +1,11 @@
 public class GreetMain{
     public static void main(String[] args){
-        Greet greet = new MoningGreet();
-        greet.greeting();
+        Greet moniggreet = new MoningGreet();
+        Greet eveningGreet = new EveningGreet();
+
+        moniggreet.greeting();
+        eveningGreet.greeting();
+
     }
 }
 
